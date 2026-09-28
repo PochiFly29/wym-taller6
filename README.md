@@ -1,6 +1,6 @@
 # Taller 6: Node.js + Express (Backend)
 
-**Nota**: Se genera seridor operativo y probado en clases, sólo no pude obtener la colección de Postman ya que nunca me logie en plataforma en clases y no guardo la colección. 
+**Nota**: Se genera servidor operativo y probado en clases, sólo no pude obtener la colección de Postman ya que nunca me logie en plataforma y no guardo la colección, pero si realice todas las pruebas solicitadas. 
 
 ## Algunos comandos útiles para VSCode
 ```text
